@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheLoneStar033
 - 👀 I’m interested in Software Engeeniring and CyberSecurity 
 - 🌱 I’m currently learning C++ and Linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate and learn
+- 📫 How to reach me (just contact me on here and i'll let you know)
 
 <!---
 TheLoneStar033/TheLoneStar033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
