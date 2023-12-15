@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLoneStar033
 - 👀 I’m interested in Software Engeeniring and CyberSecurity 
-- 🌱 I’m currently learning C++ and Linux
+- 🌱 I’m currently learning C++, C, Javascript and Linux
 - 💞️ I’m looking to collaborate and learn
 - 📫 How to reach me (just contact me on here and i'll let you know)
 
