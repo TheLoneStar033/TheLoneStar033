@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @TheLoneStar033
-- 👀 I’m interested in Software Engeeniring and CyberSecurity 
-- 🌱 I’m currently learning C++, C, Javascript and Linux
-- 💞️ I’m looking to collaborate and learn
-- 📫 How to reach me (just contact me on here and i'll let you know)
+# 👋 Hi, I'm TheLoneStar033  
 
-<!---
-TheLoneStar033/TheLoneStar033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science student at the **University of Salerno** (Italy)  
+💻 Passionate about **software development, cybersecurity, and computer networks**  
+☁️ Interested in **Innovating** and exploring new fields in computer science  
+
+---
+
+## 🚀 About Me
+- 📚 Currently studying **Computer Science** with a focus on programming and data structures  
+- 🌱 Expanding my knowledge in **desktop and mobile development**, **cybersecurity**, and **cloud computing**  
+- 🔍 Curious and motivated to learn how things work under the hood  
+
+---
+
+## 🛠️ Skills
+
+### Programming & Development
+- **C** → data structures, algorithms, system-level programming  
+- **Java** → academic projects, Java + SQL integration  
+- **SQL** → relational databases, queries, design  
+- **JavaScript** → basics of web development  
+
+### Computer Science Foundations
+- **Operating Systems** → theoretical and practical knowledge  
+- **Linux** → academic-level usage and administration basics  
+- **Networks** → TCP/IP, routing, protocols, fundamentals  
+
+---
+
+## 🎯 Interests
+- Desktop & Mobile Development  
+- Cybersecurity  
+- Cloud Computing  
+- Computer Networks  
+
+---
+
+## 📫 Get in Touch
+- 🌐 [GitHub Profile](https://github.com/TheLoneStar033)  
+- ✉️ Feel free to reach out if you’d like to collaborate or just chat about tech!  
+
+---
+
+⭐️ *“Always curious, always learning.”*
