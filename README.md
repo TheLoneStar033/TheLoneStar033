@@ -1,9 +1,6 @@
-<div align="center">
   
 [![University](https://img.shields.io/badge/University-Salerno-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.unisa.it)
 [![Status](https://img.shields.io/badge/Status-Computer%20Science%20Student-green?style=for-the-badge)](https://github.com/yourusername)
-
-</div>
 
 ## 👨‍💻 About Me
 
