@@ -24,6 +24,7 @@
 - **Networks** → TCP/IP, routing, protocols, fundamentals  
 
 ## 📫 Get in Touch
-**DISCORD**: thelonestar_033
+- 🎮 Discord: thelonestar033
+  
 ---
 ⭐️ *“Always curious, always learning.”*
