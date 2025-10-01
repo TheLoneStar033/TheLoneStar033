@@ -2,7 +2,7 @@
   
 [![University](https://img.shields.io/badge/University-Salerno-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.unisa.it)
 [![Status](https://img.shields.io/badge/Status-Computer%20Science%20Student-green?style=for-the-badge)](https://github.com/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-thelonestar_033-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-thelonestar\_033-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
 
@@ -34,6 +34,7 @@
 - **Backend Development** • Java + SQL integration for academic projects
 - **Database Management** • Relational databases, query optimization, schema design
 - **Web Development** • JavaScript basics and fundamentals of web technologies
+- **Machine Learning** • Basics of Machine Learning with Python
 
 ### Computer Science Foundations
 - **Operating Systems** • Theoretical and practical knowledge
@@ -46,7 +47,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-thelonestar033-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/thelonestar_033)
+[![Discord](https://img.shields.io/badge/Discord-thelonestar\_033-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/thelonestar_033)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
