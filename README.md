@@ -24,7 +24,6 @@
 - **Networks** → TCP/IP, routing, protocols, fundamentals  
 
 ## 📫 Get in Touch
-[![Discord](https://img.shields.io/badge/Discord-Contact-blue?logo=discord&logoColor=white)](thelonestar_033)
-
+**DISCORD**: thelonestar_033
 ---
 ⭐️ *“Always curious, always learning.”*
