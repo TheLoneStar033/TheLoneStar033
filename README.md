@@ -44,8 +44,8 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-thelonestar__033-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/thelonestar033)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LinkLinkedIn)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailesempio)
 
 </div>
 
